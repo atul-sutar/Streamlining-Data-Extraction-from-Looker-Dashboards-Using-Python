@@ -2,6 +2,8 @@
 This is the script to fetch data from looker dashboard and save it to local file
 '''
 
+# Author - Atul Sutar
+# Created Date - May 1 2024
 
 import sys
 import getpass
